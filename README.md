@@ -1,4 +1,4 @@
-# 261020_bucheon_hugging_jbs
+# 기업 분석 비서
 
 Hugging Face 모델을 활용한 기업 분석 RPA
 
